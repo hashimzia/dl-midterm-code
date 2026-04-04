@@ -23,4 +23,4 @@ To save time, the notebook can load the final model weights directly instead of 
 Inside Kaggle, the weights are loaded from:
 
 ```text
-/kaggle/input/models/hashimzia1/qwen2-5best/pytorch/default/1/qwen3b-ci
+/kaggle/input/models/hashimzia1/qwen2-5best/pytorch/default/2/qwen3b-ci
